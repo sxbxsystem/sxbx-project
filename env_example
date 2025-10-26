@@ -1,0 +1,5 @@
+# Infura/Alchemy ar panašus Sepolia RPC URL
+RPC_URL_SEPOLIA=https://sepolia.infura.io/v3/YOUR_KEY
+
+# PRIVATUS RAKTAS (tik vietiniam naudojimui, NIEKADA nedėk į GitHub)
+PRIVATE_KEY=0xYOUR_PRIVATE_KEY
