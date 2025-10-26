@@ -1,0 +1,20 @@
+# Node modules and dependencies
+node_modules/
+build/
+dist/
+.cache/
+.env
+
+# IDE settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Lock files
+*.lock
